@@ -92,3 +92,6 @@ h2 {
 img {
     width: 100%;
 }
+.section__description--wrapper {
+    width: 60%;
+}
