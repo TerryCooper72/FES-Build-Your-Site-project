@@ -20,7 +20,7 @@ header {
     background-color: #eadcff;
     height: calc (100vh - 70px);
     padding: 24px
-    display: flex;
+    display: Flex;
     align-items: center;
     justify-content: center;
 }
@@ -44,7 +44,7 @@ button {
 a {
     color: black;
     font-size: 24px;
-    font font-weight: 700;
+    font-weight: 700;
 
 }
 .logo {
@@ -81,9 +81,9 @@ h2 {
 }
 
 .section__description {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
 
 .about__img--wrapper {
