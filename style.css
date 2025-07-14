@@ -73,8 +73,13 @@ ABOUT
 
 */
 
-#about {
+#about,
+#discord,
+#contact {
   padding: 48px 0;
+}
+
+#about {
   background-color: #f8ffdc;
 }
 
@@ -114,3 +119,4 @@ DISCORD
 
 */
 
+  
